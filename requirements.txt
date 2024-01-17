@@ -27,3 +27,15 @@ coverage==6.3.2
 
 # Utilities
 httpie==3.2.1
+
+# Adding Flask-Tailsman
+flask
+flask-restx
+psycopg2-binary
+flask_sqlalchemy
+Flask-Migrate
+Flask-Cors
+Flask-Talisman
+
+# Flask-Cors
+Flask-Cors==3.0.10
